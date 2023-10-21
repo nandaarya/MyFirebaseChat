@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88478414809",
+    "project_id": "my-firebase-chat-a0bf6",
+    "storage_bucket": "my-firebase-chat-a0bf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88478414809:android:c517d8708b689251dd8bc8",
+        "android_client_info": {
+          "package_name": "com.dicoding.myfirebasechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUYiGH5zu4ln1z5gvKKm9V97T-lc4nPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
