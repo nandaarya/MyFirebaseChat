@@ -12,7 +12,20 @@
           "package_name": "com.dicoding.myfirebasechat"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "88478414809-mp6sqjfl6ei8fjajlo5ppd2k7suaoosm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.myfirebasechat",
+            "certificate_hash": "e8a81b055fb4b9b353e4690f41026c580f6b4358"
+          }
+        },
+        {
+          "client_id": "88478414809-hcgbhdg8qk4kqilatom8qnos188vavp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBmUYiGH5zu4ln1z5gvKKm9V97T-lc4nPA"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88478414809-hcgbhdg8qk4kqilatom8qnos188vavp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
